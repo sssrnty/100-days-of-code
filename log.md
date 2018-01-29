@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: January 29, 2018 (Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Using grid line on css.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I never really tried to use 'display: grid' on my projects so yeah it's my first time, the thing about grid is it helps you design your app properly and it helps you visualize your app lmao .
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [PRACTICE APP](https://github.com/sssrnty/Practice/blob/master/CSS3/grid.html)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
