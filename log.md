@@ -10,7 +10,7 @@
 
 ### Day 1: January 30, 2018
 
-**Today's Progress**: Learned columns on CSS3
+**Today's Progress**: Learned columns on CSS3 and some tricks on ES6
 
 **Thoughts**: I think i might use them on some projects and i think its better to use them than display inline hahaha. Going to read about nodeJs.
 
