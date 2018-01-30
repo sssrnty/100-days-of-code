@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 29, 2018 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 29, 2018
 
 **Today's Progress**: Using grid line on css.
 
@@ -9,14 +8,13 @@
 
 **Link to work:** [PRACTICE APP](https://github.com/sssrnty/Practice/blob/master/CSS3/grid.html)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: January 30, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learned columns on CSS3
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I think i might use them on some projects and i think its better to use them than display inline hahaha. Going to read about nodeJs.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Calculator App](https://github.com/sssrnty/Practice/blob/master/CSS3/column.html)
 
 
 ### Day 1: June 27, Monday
