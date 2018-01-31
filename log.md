@@ -23,5 +23,4 @@
 **Thoughts** i think this will be helpful in assigning new variable from an array or an object.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [https://github.com/sssrnty/Practice/blob/master/es6-newfeat/jan30destructuring.html](https://github.com/sssrnty/Practice/blob/master/es6-newfeat/jan30destructuring.html)
