@@ -17,11 +17,10 @@
 **Link(s) to work**: [https://github.com/sssrnty/Practice/blob/master/CSS3/column.html](https://github.com/sssrnty/Practice/blob/master/CSS3/column.html)
 
 
-### Day 1: June 27, Monday
+### Day 2: January 31, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: Did destructuring on ES6
+**Thoughts** i think this will be helpful in assigning new variable from an array or an object.
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
