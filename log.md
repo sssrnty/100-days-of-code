@@ -20,7 +20,14 @@
 ### Day 2: January 31, 2018
 
 **Today's Progress**: Did destructuring on ES6
-**Thoughts** i think this will be helpful in assigning new variable from an array or an object.
+**Thoughts**: I think this will be helpful in assigning new variable from an array or an object.
 
-**Link(s) to work**
-1. [https://github.com/sssrnty/Practice/blob/master/es6-newfeat/jan30destructuring.html](https://github.com/sssrnty/Practice/blob/master/es6-newfeat/jan30destructuring.html)
+**Link(s) to work** : [https://github.com/sssrnty/Practice/blob/master/es6-newfeat/jan30destructuring.html](https://github.com/sssrnty/Practice/blob/master/es6-newfeat/jan30destructuring.html)
+ 
+ 
+ ### Day 3: Febuary 1, 2018
+ 
+ **Today's Progress**: Did some javascript with css3 transitions
+ **Thoughts** I think creating something like this, will make your UI and UX much better.
+ 
+ **Link(s) to work**: [https://github.com/sssrnty/Practice/blob/master/practice/click.html](https://github.com/sssrnty/Practice/blob/master/practice/click.html)
