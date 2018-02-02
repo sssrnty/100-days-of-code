@@ -28,6 +28,15 @@
  ### Day 3: Febuary 1, 2018
  
  **Today's Progress**: Did some javascript with css3 transitions
- **Thoughts** I think creating something like this, will make your UI and UX much better.
+ **Thoughts**: I think creating something like this, will make your UI and UX much better.
  
  **Link(s) to work**: [https://github.com/sssrnty/Practice/blob/master/practice/click.html](https://github.com/sssrnty/Practice/blob/master/practice/click.html)
+ 
+ ## Day 4: Febuary 2, 2018
+ 
+ **Today's Progress**: Did navigator bar for mobile
+ **Thoughts**: Responsive design is an art 
+ 
+ **Link(s) to work**: [https://github.com/sssrnty/Practice/blob/master/practice/nav.html](https://github.com/sssrnty/Practice/blob/master/practice/nav.html)
+ 
+ 
