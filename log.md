@@ -32,7 +32,7 @@
  
  **Link(s) to work**: [https://github.com/sssrnty/Practice/blob/master/practice/click.html](https://github.com/sssrnty/Practice/blob/master/practice/click.html)
  
- ## Day 4: Febuary 2, 2018
+ ### Day 4: Febuary 2, 2018
  
  **Today's Progress**: Did navigator bar for mobile
  **Thoughts**: Responsive design is an art 
@@ -40,3 +40,9 @@
  **Link(s) to work**: [https://github.com/sssrnty/Practice/blob/master/practice/nav.html](https://github.com/sssrnty/Practice/blob/master/practice/nav.html)
  
  
+### Day 5: Febuary 3, 2018
+
+**Today's Progress**: Added effects everytime i scroll down or up
+**Thoughts**: Helps me view the page, on how it will work or imagine how beautiful it will become if I add some animations everytime i scroll
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/blob/master/practice/onscroll.html](https://github.com/sssrnty/Practice/blob/master/practice/onscroll.html)
