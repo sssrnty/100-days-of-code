@@ -46,3 +46,10 @@
 **Thoughts**: Helps me view the page, on how it will work or imagine how beautiful it will become if I add some animations everytime i scroll
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/blob/master/practice/onscroll.html](https://github.com/sssrnty/Practice/blob/master/practice/onscroll.html)
+
+### Day 6: Febuary 4, 2018
+
+**Today's Progress**: Added effects everytime i scroll up
+**Thoughts**: I think there is a better solution to what i came up with.
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/blob/master/practice/scrollheight.html](https://github.com/sssrnty/Practice/blob/master/practice/scrollheight.html)
