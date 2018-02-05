@@ -53,3 +53,11 @@
 **Thoughts**: I think there is a better solution to what i came up with.
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/blob/master/practice/scrollheight.html](https://github.com/sssrnty/Practice/blob/master/practice/scrollheight.html)
+
+### Day 7: Febuary 5, 2018
+
+**Today's Progress**: Tryna learn bootstrap 4
+**Thoughts**: My thoughts about bs4, i think you should learn it coz it has this "One advantage of using the Bootstrap 4 CDN:
+Many users already have downloaded Bootstrap 4 from MaxCDN when visiting another site. As a result, it will be loaded from cache when they visit your site, which leads to faster loading time. Also, most CDN's will make sure that once a user requests a file from it, it will be served from the server closest to them, which also leads to faster loading time."
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/bs4-practice](https://github.com/sssrnty/Practice/tree/master/bs4-practice)
