@@ -61,3 +61,10 @@
 Many users already have downloaded Bootstrap 4 from MaxCDN when visiting another site. As a result, it will be loaded from cache when they visit your site, which leads to faster loading time. Also, most CDN's will make sure that once a user requests a file from it, it will be served from the server closest to them, which also leads to faster loading time."
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/bs4-practice](https://github.com/sssrnty/Practice/tree/master/bs4-practice)
+
+### Day 8: Febuary 6, 2018
+
+**Today's Progress**: Still learning bootstrap 4
+**Thoughts**: It helps you create webpages a lot easier
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/bs4-practice](https://github.com/sssrnty/Practice/tree/master/bs4-practice)
