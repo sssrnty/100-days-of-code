@@ -68,3 +68,11 @@ Many users already have downloaded Bootstrap 4 from MaxCDN when visiting another
 **Thoughts**: It helps you create webpages a lot easier
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/bs4-practice](https://github.com/sssrnty/Practice/tree/master/bs4-practice)
+
+
+### Day 9: Febuary 7, 2018
+
+**Today's Progress**: Still learning bootstrap 4 and going to finish learning it today
+**Thoughts**: It helps you create webpages a lot easier
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/bs4-practice](https://github.com/sssrnty/Practice/tree/master/bs4-practice)
