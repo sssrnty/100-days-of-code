@@ -8,6 +8,7 @@
 
 **Link to work:** [https://github.com/sssrnty/Practice/blob/master/CSS3/grid.html](https://github.com/sssrnty/Practice/blob/master/CSS3/grid.html)
 
+
 ### Day 1: January 30, 2018
 
 **Today's Progress**: Learned columns on CSS3 and some tricks on ES6
@@ -31,7 +32,8 @@
  **Thoughts**: I think creating something like this, will make your UI and UX much better.
  
  **Link(s) to work**: [https://github.com/sssrnty/Practice/blob/master/practice/click.html](https://github.com/sssrnty/Practice/blob/master/practice/click.html)
- 
+
+
  ### Day 4: Febuary 2, 2018
  
  **Today's Progress**: Did navigator bar for mobile
@@ -47,12 +49,14 @@
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/blob/master/practice/onscroll.html](https://github.com/sssrnty/Practice/blob/master/practice/onscroll.html)
 
+
 ### Day 6: Febuary 4, 2018
 
 **Today's Progress**: Added effects everytime i scroll up
 **Thoughts**: I think there is a better solution to what i came up with.
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/blob/master/practice/scrollheight.html](https://github.com/sssrnty/Practice/blob/master/practice/scrollheight.html)
+
 
 ### Day 7: Febuary 5, 2018
 
@@ -61,6 +65,7 @@
 Many users already have downloaded Bootstrap 4 from MaxCDN when visiting another site. As a result, it will be loaded from cache when they visit your site, which leads to faster loading time. Also, most CDN's will make sure that once a user requests a file from it, it will be served from the server closest to them, which also leads to faster loading time."
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/bs4-practice](https://github.com/sssrnty/Practice/tree/master/bs4-practice)
+
 
 ### Day 8: Febuary 6, 2018
 
@@ -78,10 +83,9 @@ Many users already have downloaded Bootstrap 4 from MaxCDN when visiting another
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/bs4-practice](https://github.com/sssrnty/Practice/tree/master/bs4-practice)
 
 
+### Day 9: Febuary 8, 2018
 
-### Day 10: Febuary 8, 2018
-
-**Today's Progress**: Finished learning bs4
-**Thoughts**: Saves time on designing web pages
+**Today's Progress**: Finished on learning bootstrap4
+**Thoughts**: Saves time on creating and designing web pages
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/bs4-practice](https://github.com/sssrnty/Practice/tree/master/bs4-practice)
