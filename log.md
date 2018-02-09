@@ -83,9 +83,18 @@ Many users already have downloaded Bootstrap 4 from MaxCDN when visiting another
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/bs4-practice](https://github.com/sssrnty/Practice/tree/master/bs4-practice)
 
 
-### Day 9: Febuary 8, 2018
+### Day 10: Febuary 8, 2018
 
 **Today's Progress**: Finished on learning bootstrap4
 **Thoughts**: Saves time on creating and designing web pages
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/bs4-practice](https://github.com/sssrnty/Practice/tree/master/bs4-practice)
+
+
+
+### Day 11: Febuary 9, 2018
+
+**Today's Progress**: Started my first(not actually first but first time on getting serious in this) nodeJs page
+**Thoughts**: Learn more about nodeJs
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/nodejs](https://github.com/sssrnty/Practice/tree/master/nodejs)
