@@ -106,3 +106,11 @@ Many users already have downloaded Bootstrap 4 from MaxCDN when visiting another
 **Thoughts**: I think this is gonna be hard, but this will help me refresh my sql knowledge 
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/nodejs](https://github.com/sssrnty/Practice/tree/master/nodejs)
+
+
+### Day 13: Febuary 11, 2018
+
+**Today's Progress**: Learning Nodejs with mysql connection
+**Thoughts**: Currently having a problem with my mysql server connection, searching for a fix or reinstall it again, but did some queries hoping it will run. 
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/nodejs](https://github.com/sssrnty/Practice/tree/master/nodejs)
