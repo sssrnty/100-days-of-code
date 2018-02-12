@@ -116,7 +116,7 @@ Many users already have downloaded Bootstrap 4 from MaxCDN when visiting another
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/nodejs](https://github.com/sssrnty/Practice/tree/master/nodejs)
 
 
-### Day 13: Febuary 11, 2018
+### Day 14: Febuary 12, 2018
 
 **Today's Progress**: Did some algorithm challenge. an easy one, Gonna continue my nodejs
 **Thoughts**: I feel sad cause i couldnt do this, the thing i couldve have but i got stuck maybe because of the pressure 
