@@ -122,3 +122,12 @@ Many users already have downloaded Bootstrap 4 from MaxCDN when visiting another
 **Thoughts**: I feel sad cause i couldnt do this, the thing i couldve have but i got stuck maybe because of the pressure 
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/edit/master/practice/feb12ab.html](https://github.com/sssrnty/Practice/edit/master/practice/feb12ab.html)
+
+
+
+### Day 15: Febuary 13, 2018
+
+**Today's Progress**: Learning nodes with mysql
+**Thoughts**: Learning nodejs with mysql will refresh my mind on mysql
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/edit/master/practice/feb12ab.html](https://github.com/sssrnty/Practice/edit/master/practice/feb12ab.html)
