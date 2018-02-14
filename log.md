@@ -132,7 +132,7 @@ Many users already have downloaded Bootstrap 4 from MaxCDN when visiting another
 **Link(s) to work**: [https://github.com/sssrnty/Practice/edit/master/practice/feb12ab.html](https://github.com/sssrnty/Practice/edit/master/practice/feb12ab.html)
 
 
-### Day 15: Febuary 13, 2018
+### Day 16: Febuary 14, 2018
 
 **Today's Progress**: Learning nodes with mysql
 **Thoughts**: writing queries on nodejs help me remembered the things i used to do with mysql queries with php, doing nodejs with mysql is actually a good practice in refreshing my mind on mysql queries. 
