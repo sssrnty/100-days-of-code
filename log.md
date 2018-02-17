@@ -154,3 +154,11 @@ Many users already have downloaded Bootstrap 4 from MaxCDN when visiting another
 **Thoughts**: I kinda feel like it's getting hard, but i think learning this is worth it.
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/edit/master/practice/feb12ab.html](https://github.com/sssrnty/Practice/edit/master/practice/feb12ab.html)
+
+
+### Day 19: Febuary 17, 2018
+
+**Today's Progress**: Learning nodes with mysql
+**Thoughts**: Created some modules, actually tried to use mysql with localhost server but i couldnt do it, and currently searching for tutorials on how to do it.
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/edit/master/practice/feb12ab.html](https://github.com/sssrnty/Practice/edit/master/practice/feb12ab.html)
