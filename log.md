@@ -162,3 +162,12 @@ Many users already have downloaded Bootstrap 4 from MaxCDN when visiting another
 **Thoughts**: Created some modules, actually tried to use mysql with localhost server but i couldnt do it, and currently searching for tutorials on how to do it.
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/edit/master/practice/feb12ab.html](https://github.com/sssrnty/Practice/edit/master/practice/feb12ab.html)
+
+
+### Day 20: Febuary 18, 2018
+
+**Today's Progress**: Learning binding on javascript and types of invocations
+**Thoughts**: Learning this will give me an idea on how bindings work on reactJs and to understand why is it important to bind methods on react.
+
+**Link(s) to work**: [
+https://github.com/sssrnty/Practice/blob/master/practice/invocations.html](https://github.com/sssrnty/Practice/blob/master/practice/invocations.html)
