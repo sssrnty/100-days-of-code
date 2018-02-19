@@ -173,7 +173,7 @@ Many users already have downloaded Bootstrap 4 from MaxCDN when visiting another
 https://github.com/sssrnty/Practice/blob/master/practice/invocations.html](https://github.com/sssrnty/Practice/blob/master/practice/invocations.html)
 
 
-### Day 20: Febuary 18, 2018
+### Day 21: Febuary 19, 2018
 
 **Today's Progress**: Learning class constructors on javascript and invoking them.
 **Thoughts**: Learning this will give me an idea on understanding classes on reactJs on how to use them properly.
