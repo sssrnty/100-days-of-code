@@ -180,3 +180,12 @@ https://github.com/sssrnty/Practice/blob/master/practice/invocations.html](https
 
 **Link(s) to work**: [
 https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://github.com/sssrnty/Practice/blob/master/practice/class.html)
+
+
+### Day 22: Febuary 20, 2018
+
+**Today's Progress**: Learn the scopes with javascript functions and that this method.
+**Thoughts**: This gave me an idea on how to understand more about this method, cos sometimes its confusing to use.
+
+**Link(s) to work**: [
+https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://github.com/sssrnty/Practice/blob/master/practice/try.html)
