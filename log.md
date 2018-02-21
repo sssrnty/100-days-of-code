@@ -189,3 +189,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 
 **Link(s) to work**: [
 https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://github.com/sssrnty/Practice/blob/master/practice/try.html)
+
+
+### Day 22: Febuary 20, 2018
+
+**Today's Progress**: Learning ReactJs,created tictactoe game as a tutorial on using reactJs
+**Thoughts**: Some of the methods is confusing and i find it hard to understand, but now i know how to create classes and understand classes on reactJs
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract](https://github.com/sssrnty/Practice/tree/master/reactpract)
