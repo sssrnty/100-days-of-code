@@ -197,3 +197,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: Some of the methods is confusing and i find it hard to understand, but now i know how to create classes and understand classes on reactJs
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract](https://github.com/sssrnty/Practice/tree/master/reactpract)
+
+
+### Day 24: Febuary 22, 2018
+
+**Today's Progress**: Practice functions and classes on react and learning to understand jsx 
+**Thoughts**: Mastering this would help me improve my understanding on reactjs.
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract](https://github.com/sssrnty/Practice/tree/master/reactpract)
