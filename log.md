@@ -205,3 +205,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: Mastering this would help me improve my understanding on reactjs.
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract](https://github.com/sssrnty/Practice/tree/master/reactpract)
+
+
+### Day 24: Febuary 22, 2018
+
+**Today's Progress**: Still owrking with components in reactjs, going to familiarize exporting and importing files to index.js
+**Thoughts**: Actually creating folder for a component will help you, especially when youre working on a big project, its going to save up your time. 
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
