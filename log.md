@@ -221,3 +221,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: Practicing this will help me improve my understanding in jsx and html attributes in reactjs.
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
+
+
+### Day 27: Febuary 25, 2018
+
+**Today's Progress**: Still owrking with components in reactjs, going to familiarize exporting and importing files to index.js
+**Thoughts**: Read pragmatic thinking and learning, and help me viewed reactJs in a different angle, i think this is going to help me improve my skills as a developer.
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
