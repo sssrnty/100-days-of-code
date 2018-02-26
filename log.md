@@ -234,6 +234,6 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 ### Day 28: Febuary 26, 2018
 
 **Today's Progress**: Still Learning Reactjs, and gonna familiarize it.
-**Thoughts**: I really thought that react makes the webpage load faster and its a good thing. HAHAHA
+**Thoughts**: I really thought that react makes the webpage load faster and its a good thing. HAHAHA, the thing is I realize that i should not be afraid of extracting my components into props.
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
