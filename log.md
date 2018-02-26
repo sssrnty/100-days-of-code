@@ -229,3 +229,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: Read pragmatic thinking and learning, and help me viewed reactJs in a different angle, i think this is going to help me improve my skills as a developer.
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
+
+
+### Day 28: Febuary 26, 2018
+
+**Today's Progress**: Still Learning Reactjs, and gonna familiarize it.
+**Thoughts**: I really thought that react makes the webpage load faster and its a good thing. HAHAHA
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
