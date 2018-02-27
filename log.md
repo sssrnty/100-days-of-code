@@ -237,3 +237,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: I really thought that react makes the webpage load faster and its a good thing. HAHAHA, the thing is I realize that i should not be afraid of extracting my components into props.
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
+
+
+### Day 29: Febuary 27, 2018
+
+**Today's Progress**: Still Learning Reactjs, learning about reactjs state and lifecycle, and read about what does the setState do in a reactjs app.
+**Thoughts**:I think this is for when a component updates it updates only itself but not the whole webpage.
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
