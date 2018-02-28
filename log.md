@@ -245,3 +245,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**:I think this is for when a component updates it updates only itself but not the whole webpage.
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
+
+
+### Day 30: Febuary 28, 2018
+
+**Today's Progress**: Learning reactJs, and did some coding about handling events in React.
+**Thoughts**: Upon doing this, I realized that i still got a long wway to go upon understanding React, and probably getting comfortable using it, takes a lot of time.
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
