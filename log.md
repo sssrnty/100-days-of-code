@@ -253,3 +253,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: Upon doing this, I realized that i still got a long wway to go upon understanding React, and probably getting comfortable using it, takes a lot of time.
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
+
+
+### Day 31: March 1, 2018
+
+**Today's Progress**: Learning reactJs, reviewed some on handling variables, learned about conditional statements in react 
+**Thoughts**: Breaking down your components is kinda hard.
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
