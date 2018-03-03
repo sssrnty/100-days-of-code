@@ -261,3 +261,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: Breaking down your components is kinda hard.
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
+
+
+### Day 32: March 2, 2018
+
+**Today's Progress**: Learning reactJs, about lists and keys(@keys always/should have a unique identifier)
+**Thoughts**: Having a unique keys for a list helps you everytime you update your lists, without a problem.
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
