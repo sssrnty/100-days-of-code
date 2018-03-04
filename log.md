@@ -277,3 +277,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: It helped me understand more about importing values and then exporting it.
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
+
+
+### Day 334: March 4, 2018
+
+**Today's Progress**: Learning reactJs, still with forms(multiple inputs) and learned about CPN(computed property name)
+**Thoughts**: I still get confused on binding this values and hoping imma able to grasp it by the end of the month.
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
