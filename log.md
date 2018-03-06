@@ -293,3 +293,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: learning it is good cos i think its because the state is only(private) for its component, and changing the object by using computed property names
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
+
+
+### Day 36: March 6, 2018
+
+**Today's Progress**: Learning reactJs, Compositions and special components; props.children  
+**Thoughts**: Having a children inside a class component is kinda cool hahaha
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
