@@ -301,3 +301,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: Having a children inside a class component is kinda cool hahaha
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
+
+
+### Day 37: March 7, 2018
+
+**Today's Progress**: Learning reactJs, Viewing a page in reac, or thinking in react  
+**Thoughts**: Itll help anyone in viewing the page as a whole, and giving every component its own functionality by using Single Responsibility Principle
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
