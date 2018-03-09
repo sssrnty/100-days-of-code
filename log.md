@@ -317,3 +317,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: Being able to grasp what it means is something to learn 
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
+
+
+### Day 39: March 9, 2018
+
+**Today's Progress**: Another day with react deeper usages of jsx  
+**Thoughts**: Still learning and i need to refocus on how to think in react 
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
