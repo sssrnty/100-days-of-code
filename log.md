@@ -309,3 +309,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: Itll help anyone in viewing the page as a whole, and giving every component its own functionality by using Single Responsibility Principle
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
+
+
+### Day 38: March 8, 2018
+
+**Today's Progress**: Still reading about thinking in react  
+**Thoughts**: Being able to grasp what it means is something to learn 
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
