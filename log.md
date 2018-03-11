@@ -325,3 +325,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: Still learning and i need to refocus on how to think in react 
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
+
+
+### Day 40: March 10, 2018
+
+**Today's Progress**: Another day with react deeper usages of jsx, importing css designs and responsive designs  
+**Thoughts**: Its useful to use inline design or importing designs by the use of objects is kinda useful. 
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
