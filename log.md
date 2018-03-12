@@ -333,3 +333,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: Its useful to use inline design or importing designs by the use of objects is kinda useful. 
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
+
+
+### Day 41: March 11, 2018
+
+**Today's Progress**: Another day with react deeper usages of jsx, did some looping.  
+**Thoughts**: Having this or learning this will deepen my understanding with react jsx 
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
