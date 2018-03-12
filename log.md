@@ -341,3 +341,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: Having this or learning this will deepen my understanding with react jsx 
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
+
+
+### Day 42: March 12, 2018
+
+**Today's Progress**: Another day with react did some proptyping or validating read about typescript vs flow.  
+**Thoughts**: Learning to validate inputs will help prevent future errors. 
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
