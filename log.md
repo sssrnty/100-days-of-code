@@ -349,3 +349,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: Learning to validate inputs will help prevent future errors. 
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
+
+
+### Day 43: March 13, 2018
+
+**Today's Progress**: Another day with react, tried flow on reactjs.  
+**Thoughts**: I couldnt make it work, ill check for some solutions tommorrow. 
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
