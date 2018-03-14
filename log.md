@@ -357,3 +357,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: I couldnt make it work, ill check for some solutions tommorrow. 
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
+
+
+### Day 44: March 14, 2018
+
+**Today's Progress**: Another day with react, still with flow and created new react app with 'CREATE-REACT-APP'  
+**Thoughts**: I think it worked 
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
