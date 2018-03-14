@@ -364,4 +364,4 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Today's Progress**: Another day with react, still with flow and created new react app with 'CREATE-REACT-APP'  
 **Thoughts**: I think it worked 
 
-**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/reactpract/components)
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/reactpract/components](https://github.com/sssrnty/Practice/tree/master/react-march)
