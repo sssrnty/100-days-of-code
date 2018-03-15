@@ -365,3 +365,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: I think it worked 
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mar-react](https://github.com/sssrnty/Practice/tree/master/mar-react)
+
+
+### Day 45: March 15, 2018
+
+**Today's Progress**: Still with flow + react, using default Props with functions 
+**Thoughts**: Not feeling well, cant focus, gonna check about my errors 
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mar-react](https://github.com/sssrnty/Practice/tree/master/mar-react)
