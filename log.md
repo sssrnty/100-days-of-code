@@ -381,3 +381,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: Ive been thinkin like react, I forgot that react is javascript as well, gonna view it differently rn
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mar-react](https://github.com/sssrnty/Practice/tree/master/mar-react)
+
+
+### Day 47: March 17, 2018
+
+**Today's Progress**: Still with react 
+**Thoughts**: Rethinkin with react and with javascript
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mar-react](https://github.com/sssrnty/Practice/tree/master/mar-react)
