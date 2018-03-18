@@ -389,3 +389,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: Rethinkin with react and with javascript
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mar-react](https://github.com/sssrnty/Practice/tree/master/mar-react)
+
+
+### Day 48: March 18, 2018
+
+**Today's Progress**: Still with react with ref and doms 
+**Thoughts**: i think its useful to use refs but not all the time
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mar-react](https://github.com/sssrnty/Practice/tree/master/mar-react)
