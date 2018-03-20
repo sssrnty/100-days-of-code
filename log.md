@@ -397,3 +397,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: i think its useful to use refs but not all the time
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mar-react](https://github.com/sssrnty/Practice/tree/master/mar-react)
+
+
+### Day 49: March 19, 2018
+
+**Today's Progress**: react with comtrolled and uncontrolled components 
+**Thoughts**: knowing the differences between those two help you understand which are you going to use in a component
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mar-react](https://github.com/sssrnty/Practice/tree/master/mar-react)
