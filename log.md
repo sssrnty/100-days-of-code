@@ -405,3 +405,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: knowing the differences between those two help you understand which are you going to use in a component
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mar-react](https://github.com/sssrnty/Practice/tree/master/mar-react)
+
+
+### Day 40: March 20, 2018
+
+**Today's Progress**: read about and did controlled components and uncontrolled components in react
+**Thoughts**: Knowing this help you get the idea of which are you going to use, you dont need to use controlled components all the time, if you can write it with uncontrolled component then much better
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mar-react](https://github.com/sssrnty/Practice/tree/master/mar-react)
