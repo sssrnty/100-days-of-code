@@ -413,3 +413,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: Knowing this help you get the idea of which are you going to use, you dont need to use controlled components all the time, if you can write it with uncontrolled component then much better
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mar-react](https://github.com/sssrnty/Practice/tree/master/mar-react)
+
+
+### Day 41: March 21, 2018
+
+**Today's Progress**: react with default input values
+**Thoughts**: Its okay to use default values if needed
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mar-react](https://github.com/sssrnty/Practice/tree/master/mar-react)
