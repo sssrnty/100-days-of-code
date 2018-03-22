@@ -421,3 +421,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: Its okay to use default values if needed
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mar-react](https://github.com/sssrnty/Practice/tree/master/mar-react)
+
+
+### Day 42: March 22, 2018
+
+**Today's Progress**: react without es6, created classes without es6/ installed create-react-class by (sudo npm install create-react-class)
+**Thoughts**: When someone doesnt use es6 in the team, this is going to be helpful
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mar-react](https://github.com/sssrnty/Practice/tree/master/mar-react)
