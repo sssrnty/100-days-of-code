@@ -429,3 +429,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: When someone doesnt use es6 in the team, this is going to be helpful
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mar-react](https://github.com/sssrnty/Practice/tree/master/mar-react)
+
+
+### Day 43: March 23, 2018
+
+**Today's Progress**: creating webpages with react and express as backend (MERN stack)
+**Thoughts**: gonna help me on  how to create APIs
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mar-react](https://github.com/sssrnty/Practice/tree/master/mar-react)
