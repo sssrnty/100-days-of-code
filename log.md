@@ -437,3 +437,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: gonna help me on  how to create APIs
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mar-react](https://github.com/sssrnty/Practice/tree/master/mar-react)
+
+
+### Day 44: March 24, 2018
+
+**Today's Progress**: created a static page(section1) for my website, installed and updated my mongodb(still having errors)
+**Thoughts**: going to understand mongodb for my api
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/react-web](https://github.com/sssrnty/Practice/tree/master/react-web)
