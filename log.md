@@ -445,3 +445,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: going to understand mongodb for my api
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/react-web](https://github.com/sssrnty/Practice/tree/master/react-web)
+
+
+### Day 45: March 26, 2018
+
+**Today's Progress**: created a static page(section2) for my website, installed and updated my mongodb(still having errors) checked my status on mongodb, but i cant acccess the localhost
+**Thoughts**: practice practice practice
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/react-web](https://github.com/sssrnty/Practice/tree/master/react-web)
