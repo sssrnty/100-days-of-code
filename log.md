@@ -453,3 +453,19 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: practice practice practice
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/react-web](https://github.com/sssrnty/Practice/tree/master/react-web)
+
+
+### Day 46: March 27, 2018
+
+**Today's Progress**: created a static page(section3) for my website, learning about how to create an RESTApi
+**Thoughts**: practice practice practice
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/react-web](https://github.com/sssrnty/Practice/tree/master/react-web)
+
+
+### Day 47: March 28, 2018
+
+**Today's Progress**: created a static page(section3) for my website, learning about how to create an RESTApi
+**Thoughts**: practice practice practice
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/react-web](https://github.com/sssrnty/Practice/tree/master/react-web)
