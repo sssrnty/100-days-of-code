@@ -469,3 +469,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: practice practice practice
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/react-web](https://github.com/sssrnty/Practice/tree/master/react-web)
+
+
+### Day 48: March 29, 2018
+
+**Today's Progress**: Learning mongodb(hard) and added a scrollspy on my reactpage( it works )
+**Thoughts**: practice practice practice
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/react-web](https://github.com/sssrnty/Practice/tree/master/react-web)
