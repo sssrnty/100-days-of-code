@@ -477,3 +477,19 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: practice practice practice
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/react-web](https://github.com/sssrnty/Practice/tree/master/react-web)
+
+
+### Day 49: March 30, 2018
+
+**Today's Progress**: Finished(functionalities) my website
+**Thoughts**: still learning react
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/react-web](https://github.com/sssrnty/Practice/tree/master/react-web)
+
+
+### Day 50: March 31, 2018
+
+**Today's Progress**: Added footer for my website, gonna learn mongodb
+**Thoughts**: learn learn learn
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/react-web](https://github.com/sssrnty/Practice/tree/master/react-web)
