@@ -493,3 +493,27 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: learn learn learn
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/react-web](https://github.com/sssrnty/Practice/tree/master/react-web)
+
+
+### Day 51: April 1, 2018
+
+**Today's Progress**: created a different file for my header in react
+**Thoughts**: learn learn learn
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/react-web](https://github.com/sssrnty/Practice/tree/master/react-web)
+
+
+### Day 52: April 2, 2018
+
+**Today's Progress**: started learning mongodb, learned about using npm with dependencies 
+**Thoughts**: learn learn learn
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mnode](https://github.com/sssrnty/Practice/tree/master/mnode)
+
+
+### Day 53: April 3, 2018
+
+**Today's Progress**: reinstalled my mongodb, learned about unmasking the mongo.service, written some mongodb code with node(createCollection, insertOne(), insertMany(), find({}).toArray((err, res)=>{}) 
+**Thoughts**: learn learn learn
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mnode](https://github.com/sssrnty/Practice/tree/master/mnode)
