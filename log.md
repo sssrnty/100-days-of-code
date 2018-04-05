@@ -517,3 +517,19 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: learn learn learn
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mnode](https://github.com/sssrnty/Practice/tree/master/mnode)
+
+
+### Day 54: April 4, 2018
+
+**Today's Progress**: created my first express program 
+**Thoughts**: learn learn learn
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mnode](https://github.com/sssrnty/Practice/tree/master/mnode)
+
+
+### Day 55: April 5, 2018
+
+**Today's Progress**: Created my first server side express app with mongodb, consolidate, nunjucks, express
+**Thoughts**: i want to use react as my front end with consolidate
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mnode](https://github.com/sssrnty/Practice/tree/master/mnode)
