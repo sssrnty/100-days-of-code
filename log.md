@@ -533,3 +533,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: i want to use react as my front end with consolidate
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mnode](https://github.com/sssrnty/Practice/tree/master/mnode)
+
+
+### Day 56: April 6, 2018
+
+**Today's Progress**: did get method and post method with express and learned to use them together still its the basic syntax added bodyparser as my middleware
+**Thoughts**: still want to use react as a front end
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mnode](https://github.com/sssrnty/Practice/tree/master/mnode)
