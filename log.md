@@ -541,3 +541,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: still want to use react as a front end
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mnode](https://github.com/sssrnty/Practice/tree/master/mnode)
+
+
+### Day 57: April 7, 2018
+
+**Today's Progress**: Did the activity from mongob university(created an insert and view movie app) where the user can insert a new movie its description and view all available movies from my database
+**Thoughts**: still want to use react as my frontend 
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mnode/mongo-quiz/firstquiz](https://github.com/sssrnty/Practice/tree/master/mnode/mongo-quiz/firstquiz)
