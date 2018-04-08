@@ -549,3 +549,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: still want to use react as my frontend 
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mnode/mongo-quiz/firstquiz](https://github.com/sssrnty/Practice/tree/master/mnode/mongo-quiz/firstquiz)
+
+
+### Day 58: April 8, 2018
+
+**Today's Progress**: Added the rating feature in my app from mongodb exercise, used the dot in mongodb 
+**Thoughts**: still want to use react as my frontend 
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mnode/mongo-quiz/firstquiz](https://github.com/sssrnty/Practice/tree/master/mnode/mongo-quiz/firstquiz)
