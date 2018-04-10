@@ -557,3 +557,12 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: still want to use react as my frontend 
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mnode/mongo-quiz/firstquiz](https://github.com/sssrnty/Practice/tree/master/mnode/mongo-quiz/firstquiz)
+
+
+
+### Day 59: April 9, 2018
+
+**Today's Progress**: Now I can view the movie description, I can now use a my ids by the use of require.('mongodb').ObjectID;   
+**Thoughts**: still want to use react as my frontend 
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mnode/mongo-quiz/firstquiz](https://github.com/sssrnty/Practice/tree/master/mnode/mongo-quiz/firstquiz)
