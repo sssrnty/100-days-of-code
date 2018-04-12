@@ -582,3 +582,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: i want to create my own api
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mnode/mongo-quiz/firstquiz](https://github.com/sssrnty/Practice/tree/master/mnode/mongo-quiz/firstquiz
+
+
+### Day 61: April 11, 2018
+
+**Today's Progress**: created my first simple api idontknow if im right with that one anyways
+**Thoughts**: i want to create my own api
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mnode/mongo-quiz/firstquiz](https://github.com/sssrnty/Practice/tree/master/mnode/mongo-quiz/firstquiz
