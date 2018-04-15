@@ -590,3 +590,19 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: i want to create my own api
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mnode/mongo-quiz/firstquiz](https://github.com/sssrnty/Practice/tree/master/mnode/mongo-quiz/firstquiz
+
+
+### Day 63: April 13, 2018
+
+**Today's Progress**: separated my routes from another directories hahahahah
+**Thoughts**: this is the best practice to create a route
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/restfulapi_prac](https://github.com/sssrnty/Practice/tree/master/restfulapi_prac
+
+
+### Day 64: April 15, 2018
+
+**Today's Progress**: tried marinating with my lessons
+**Thoughts**: learning the best practices
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/prac_node](https://github.com/sssrnty/Practice/tree/master/prac_node
