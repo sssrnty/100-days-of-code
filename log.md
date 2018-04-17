@@ -605,4 +605,20 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Today's Progress**: tried marinating with my lessons
 **Thoughts**: learning the best practices
 
-**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/prac_node](https://github.com/sssrnty/Practice/tree/master/prac_node
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/prac_node](https://github.com/sssrnty/Practice/tree/master/prac_node)
+
+
+### Day 65: April 16, 2018
+
+**Today's Progress**: selected all my items in my database
+**Thoughts**: learning the best practices
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/prac_node](https://github.com/sssrnty/Practice/tree/master/prac_node)
+
+
+### Day 64: April 15, 2018
+
+**Today's Progress**: connected my react app with express, mongodb, nodejs(MERN) locally
+**Thoughts**: learning best practices helped me 
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/create-react-app-with-express](https://github.com/sssrnty/Practice/tree/master/create-react-app-with-express)
