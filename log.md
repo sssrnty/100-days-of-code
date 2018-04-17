@@ -616,7 +616,7 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/prac_node](https://github.com/sssrnty/Practice/tree/master/prac_node)
 
 
-### Day 64: April 15, 2018
+### Day 66: April 17, 2018
 
 **Today's Progress**: connected my react app with express, mongodb, nodejs(MERN) locally
 **Thoughts**: learning best practices helped me 
