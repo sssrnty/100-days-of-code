@@ -622,3 +622,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: learning best practices helped me 
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/create-react-app-with-express](https://github.com/sssrnty/Practice/tree/master/create-react-app-with-express)
+
+
+### Day 67: April 18, 2018
+
+**Today's Progress**: connected my react app with express, mongodb, nodejs(MERN) locally, tried to handle forms with react(POST) method
+**Thoughts**: learning best practices helped me 
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac](https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac)
