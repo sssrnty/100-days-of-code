@@ -630,3 +630,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: learning best practices helped me 
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac](https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac)
+
+
+### Day 68: April 19, 2018
+
+**Today's Progress**: first time I fetch method post in my react with express, learned about fecth post
+**Thoughts**: i actually remembered from the book "pragmmatic thinking and learning" bout creating to learn 
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac](https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac)
