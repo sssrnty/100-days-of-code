@@ -638,3 +638,19 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: i actually remembered from the book "pragmmatic thinking and learning" bout creating to learn 
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac](https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac)
+
+
+### Day 69: April 20, 2018
+
+**Today's Progress**: tried to handle forms with multiple inputs but failed, so i read about FormData()
+**Thoughts**: this sum up my day 
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac](https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac)
+
+
+### Day 70: April 21, 2018
+
+**Today's Progress**: i got my forms working 
+**Thoughts**: gotta add more 
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac](https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac)
