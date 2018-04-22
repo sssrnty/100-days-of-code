@@ -654,3 +654,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: gotta add more 
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac](https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac)
+
+
+### Day 71: April 22, 2018
+
+**Today's Progress**: I can now add new movies in my form, added a search feature in my app but it is currently not working
+**Thoughts**: Create to learn
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac](https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac)
