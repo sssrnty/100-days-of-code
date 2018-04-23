@@ -662,3 +662,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: Create to learn
 
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac](https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac)
+
+
+### Day 72: April 23, 2018
+
+**Today's Progress**: Added some simple routing with my app, i can now view all available movies
+**Thoughts**: Create to learn with reactjs
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac](https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac)
