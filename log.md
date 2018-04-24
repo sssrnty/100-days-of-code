@@ -672,7 +672,7 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac](https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac)
 
 
-### Day 72: April 23, 2018
+### Day 73: April 24, 2018
 
 **Today's Progress**: Added react routing to my react app with parameters to get data from a certain API
 **Thoughts**: Create to learn with reactjs
