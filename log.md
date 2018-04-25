@@ -581,7 +581,7 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Today's Progress**: api practice with react
 **Thoughts**: i want to create my own api
 
-**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mnode/mongo-quiz/firstquiz](https://github.com/sssrnty/Practice/tree/master/mnode/mongo-quiz/firstquiz
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mnode/mongo-quiz/firstquiz](https://github.com/sssrnty/Practice/tree/master/mnode/mongo-quiz/firstquiz)
 
 
 ### Day 62: April 12, 2018
@@ -589,7 +589,7 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Today's Progress**: created my first simple api idontknow if im right with that one anyways
 **Thoughts**: i want to create my own api
 
-**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mnode/mongo-quiz/firstquiz](https://github.com/sssrnty/Practice/tree/master/mnode/mongo-quiz/firstquiz
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/mnode/mongo-quiz/firstquiz](https://github.com/sssrnty/Practice/tree/master/mnode/mongo-quiz/firstquiz)
 
 
 ### Day 63: April 13, 2018
@@ -597,7 +597,7 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Today's Progress**: separated my routes from another directories hahahahah
 **Thoughts**: this is the best practice to create a route
 
-**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/restfulapi_prac](https://github.com/sssrnty/Practice/tree/master/restfulapi_prac
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/restfulapi_prac](https://github.com/sssrnty/Practice/tree/master/restfulapi_prac)
 
 
 ### Day 64: April 15, 2018
@@ -682,7 +682,10 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 
 ### Day 74: April 25, 2018
 
-**Today's Progress**: I can now delete records with my movies app
+**Today's Progress**: I can now delete records with my movies app, refreshed my learnings about express put
 **Thoughts**: Create to learn with reactjs
 
-**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac](https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac)
+**Link(s) to work**: 
+1.) [https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac](https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac)
+2.) [https://github.com/sssrnty/Practice/tree/master/put_prac](https://github.com/sssrnty/Practice/tree/master/put_prac)
+
