@@ -689,3 +689,10 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 1.) [https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac](https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac)
 2.) [https://github.com/sssrnty/Practice/tree/master/put_prac](https://github.com/sssrnty/Practice/tree/master/put_prac)
 
+
+### Day 75: April 26, 2018
+
+**Today's Progress**: Added edit features with my app, fixed my index file
+**Thoughts**: Create to learn with reactjs
+
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/put_prac](https://github.com/sssrnty/Practice/tree/master/put_prac)
