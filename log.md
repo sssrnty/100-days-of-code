@@ -698,7 +698,7 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/put_prac](https://github.com/sssrnty/Practice/tree/master/put_prac)
 
 
-### Day 75: April 26, 2018
+### Day 76: April 27, 2018
 
 **Today's Progress**: fixed my template for edting 
 **Thoughts**: Still having a hard time fixing some bugs
