@@ -710,3 +710,10 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Today's Progress**: fixing some errors with my put api 
 **Thoughts**: cant focus i need to chill for a bit haha
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/put_prac](https://github.com/sssrnty/Practice/tree/master/put_prac)
+
+
+### Day 78: April 29, 2018
+
+**Today's Progress**: put method working 
+**Thoughts**: damn this impostor syndrome
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/put_prac](https://github.com/sssrnty/Practice/tree/master/put_prac)
