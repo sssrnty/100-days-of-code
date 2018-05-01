@@ -702,6 +702,7 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 
 **Today's Progress**: fixed my template for edting 
 **Thoughts**: Still having a hard time fixing some bugs
+
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/put_prac](https://github.com/sssrnty/Practice/tree/master/put_prac)
 
 
@@ -709,6 +710,7 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 
 **Today's Progress**: fixing some errors with my put api 
 **Thoughts**: cant focus i need to chill for a bit haha
+
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/put_prac](https://github.com/sssrnty/Practice/tree/master/put_prac)
 
 
@@ -716,6 +718,7 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 
 **Today's Progress**: put method working 
 **Thoughts**: damn this impostor syndrome
+
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/put_prac](https://github.com/sssrnty/Practice/tree/master/put_prac)
 
 
@@ -723,4 +726,13 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 
 **Today's Progress**: I got my edting app working
 **Thoughts**: breaking problems into pieces makes it not that hard to solve
+
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/put_prac](https://github.com/sssrnty/Practice/tree/master/put_prac)
+
+
+### Day 80: May 1, 2018
+
+**Today's Progress**: Added a loader and edit with my react app
+**Thoughts**: breaking problems into pieces makes it not that hard to solve
+
+***Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac](https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac)
