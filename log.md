@@ -717,3 +717,10 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Today's Progress**: put method working 
 **Thoughts**: damn this impostor syndrome
 **Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/put_prac](https://github.com/sssrnty/Practice/tree/master/put_prac)
+
+
+### Day 79: April 30, 2018
+
+**Today's Progress**: I got my edting app working
+**Thoughts**: breaking problems into pieces makes it not that hard to solve
+**Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/put_prac](https://github.com/sssrnty/Practice/tree/master/put_prac)
