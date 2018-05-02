@@ -736,3 +736,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: breaking problems into pieces makes it not that hard to solve
 
 ***Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac](https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac)
+
+
+### Day 82: May 2, 2018
+
+**Today's Progress**: Created some animations with css and Added my edit feature in my react app
+**Thoughts**: creating to learn
+
+***Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac](https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac)
