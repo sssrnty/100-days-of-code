@@ -738,9 +738,17 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 ***Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac](https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac)
 
 
-### Day 82: May 2, 2018
+### Day 81: May 2, 2018
 
 **Today's Progress**: Created some animations with css and Added my edit feature in my react app
+**Thoughts**: creating to learn
+
+***Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac](https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac)
+
+
+### Day 82: May 3, 2018
+
+**Today's Progress**: Finished my edit feature, fixed some bugs and added some loader animation
 **Thoughts**: creating to learn
 
 ***Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac](https://github.com/sssrnty/Practice/tree/master/cra-exp-post-prac)
