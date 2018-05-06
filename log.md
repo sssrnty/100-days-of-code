@@ -768,3 +768,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: creating to learn with react
 
 ***Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/crud-prac](https://github.com/sssrnty/Practice/tree/master/crud-prac)
+
+
+### Day 85: May 6, 2018
+
+**Today's Progress**: Added a router for my mini social app so i can navigate to different links,i can now also delete a post.
+**Thoughts**: learning by building a frog
+
+***Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/crud-prac](https://github.com/sssrnty/Practice/tree/master/crud-prac)
