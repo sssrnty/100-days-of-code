@@ -776,3 +776,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: learning by building a frog
 
 ***Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/crud-prac](https://github.com/sssrnty/Practice/tree/master/crud-prac)
+
+
+### Day 86: May 7, 2018
+
+**Today's Progress**: I can now add comments on posts.
+**Thoughts**: learning by building a frog
+
+***Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/crud-prac](https://github.com/sssrnty/Practice/tree/master/crud-prac)
