@@ -784,3 +784,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: learning by building a frog
 
 ***Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/crud-prac](https://github.com/sssrnty/Practice/tree/master/crud-prac)
+
+
+### Day 87: May 8, 2018
+
+**Today's Progress**: I can now delete comments 
+**Thoughts**: learning by building a frog
+
+***Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/crud-prac](https://github.com/sssrnty/Practice/tree/master/crud-prac)
