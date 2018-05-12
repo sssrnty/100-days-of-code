@@ -808,3 +808,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: Learning by building a frog
 
 ***Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/crud-prac](https://github.com/sssrnty/Practice/tree/master/crud-prac)
+
+
+### Day 90: May 11, 2018
+
+**Today's Progress**: Added a database for my accounts and read about the differences between cookies and sessions
+**Thoughts**: Learning the differences about cookies and sessions helped me understand what i need to use 
+
+***Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/crud-prac](https://github.com/sssrnty/Practice/tree/master/crud-prac)
