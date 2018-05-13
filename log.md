@@ -816,3 +816,19 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: Learning the differences about cookies and sessions helped me understand what i need to use 
 
 ***Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/crud-prac](https://github.com/sssrnty/Practice/tree/master/crud-prac)
+
+
+### Day 91: May 12, 2018
+
+**Today's Progress**: added express-session in my backend, when i reload the page my session disappears as well
+**Thoughts**: my code isnt working for some reason, maybe this is because of my api calls 
+
+***Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/crud-prac](https://github.com/sssrnty/Practice/tree/master/crud-prac)
+
+
+### Day 92: May 13, 2018
+
+**Today's Progress**: Got my session working, added some codes for header
+**Thoughts**: Asking the web for help is great
+
+***Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/crud-prac](https://github.com/sssrnty/Practice/tree/master/crud-prac)
