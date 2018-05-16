@@ -840,3 +840,19 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: learning by doing
 
 ***Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/crud-prac](https://github.com/sssrnty/Practice/tree/master/crud-prac)
+
+
+### Day 94: May 15, 2018
+
+**Today's Progress**: Accounts is now connected to its posts, created the post feature for users only 
+**Thoughts**: learning by doing
+
+***Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/crud-prac](https://github.com/sssrnty/Practice/tree/master/crud-prac)
+
+
+### Day 95: May 16, 2018
+
+**Today's Progress**: creating users now have validation, usernames can now check if the user is already taken or available. 
+**Thoughts**: learning by doing
+
+***Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/crud-prac](https://github.com/sssrnty/Practice/tree/master/crud-prac)
