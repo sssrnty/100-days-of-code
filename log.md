@@ -856,3 +856,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: learning by doing
 
 ***Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/crud-prac](https://github.com/sssrnty/Practice/tree/master/crud-prac)
+
+
+### Day 96: May 17, 2018
+
+**Today's Progress**: fixed the bug on my username validation, i now have a session id fixed some bugs as well 
+**Thoughts**: learning by doing
+
+***Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/crud-prac](https://github.com/sssrnty/Practice/tree/master/crud-prac)
