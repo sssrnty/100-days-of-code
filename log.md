@@ -872,3 +872,11 @@ https://github.com/sssrnty/Practice/blob/master/practice/class.html](https://git
 **Thoughts**: learning by doing
 
 ***Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/crud-prac](https://github.com/sssrnty/Practice/tree/master/crud-prac)
+
+
+### Day 98: May 19, 2018
+
+**Today's Progress**: created a simple login feature for the site 
+**Thoughts**: learning by doing
+
+***Link(s) to work**: [https://github.com/sssrnty/Practice/tree/master/crud-prac](https://github.com/sssrnty/Practice/tree/master/crud-prac)
